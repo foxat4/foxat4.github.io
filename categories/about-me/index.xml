@@ -9,11 +9,12 @@
     <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://foxat4.github.io/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me 關於我</title>
-      <link>https://foxat4.github.io/post/blog/</link>
+      <title>关于我 About me</title>
+      <link>https://foxat4.github.io/post/about-me/</link>
       <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://foxat4.github.io/post/blog/</guid>
-      <description>在chatgpt老師的幫助下建成了自己的小站！</description>
+      <guid>https://foxat4.github.io/post/about-me/</guid>
+      <description>&lt;p&gt;　　你好！欢迎来玩。我是O。在这里，会不定期更新写作上的小小实验，年底进行年终总结。目前网站还在很初始的阶段，希望之后还会常常摸一摸code进行升级改造。写作语言会以中文为主，但也许什么时候会有英语和正在学习中的日语出没。&lt;/p&gt;
+&lt;p&gt;　　Hi there! This is O looking to practice and experiment all kinds of writings (one thing for sure is my annual review posted at the end of a year), so consider this blog as a site for exploration. This is just starting, still very much text-based, but hopefully it gets more interactive and fun over time :) my writing will mostly be in Chinese. Perhaps later English and Japanese will come in.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
