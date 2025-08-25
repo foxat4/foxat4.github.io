@@ -9,17 +9,17 @@
     <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://foxat4.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>https://foxat4.github.io/categories/about-me/</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://foxat4.github.io/categories/about-me/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Reviews 回顾</title>
       <link>https://foxat4.github.io/categories/reviews-%E5%9B%9E%E9%A1%BE/</link>
       <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://foxat4.github.io/categories/reviews-%E5%9B%9E%E9%A1%BE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Essays 散</title>
+      <link>https://foxat4.github.io/categories/essays-%E6%95%A3/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://foxat4.github.io/categories/essays-%E6%95%A3/</guid>
       <description></description>
     </item>
   </channel>

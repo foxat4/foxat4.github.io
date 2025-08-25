@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>回顾 Reviews on 丘山群青</title>
+    <link>http://localhost:1313/categories/%E5%9B%9E%E9%A1%BE-reviews/</link>
+    <description>Recent content in 回顾 Reviews on 丘山群青</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2024 06:49:31 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E5%9B%9E%E9%A1%BE-reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>”鸟儿越过我们“</title>
+      <link>http://localhost:1313/post/%E9%B8%9F%E5%84%BF%E8%B6%8A%E8%BF%87%E6%88%91%E4%BB%AC/</link>
+      <pubDate>Wed, 01 May 2024 06:49:31 -0400</pubDate>
+      <guid>http://localhost:1313/post/%E9%B8%9F%E5%84%BF%E8%B6%8A%E8%BF%87%E6%88%91%E4%BB%AC/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;birds&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/post/%E9%B8%9F%E5%84%BF%E8%B6%8A%E8%BF%87%E6%88%91%E4%BB%AC/birds.JPG&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
