@@ -45,7 +45,7 @@ services:
         id:
 
 pagination:
-    pagerSize: 3
+    pagerSize: 5
 
 permalinks:
     post: /p/:slug/
@@ -59,7 +59,7 @@ params:
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2025
+        since: 2021
         customText:
 
     dateFormat:
@@ -94,7 +94,7 @@ params:
             adminLabel:
 
         utterances:
-            repo: hyrtee/hyrteeblogtalks
+            repo: foxat4/ay_blogtalks
             issueTerm: title
             label: github-light
 

@@ -7,37 +7,45 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>O</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Syntax</title>
-        <link>http://localhost:1313/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <lastBuildDate>Thu, 18 Dec 2025 19:42:37 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>年终回顾</title>
+        <link>http://localhost:1313/categories/%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE/</link>
+        <pubDate>Thu, 18 Dec 2025 19:42:37 -0500</pubDate>
         
-        <guid>http://localhost:1313/categories/syntax/</guid>
+        <guid>http://localhost:1313/categories/%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE/</guid>
         <description></description>
         </item>
         <item>
-        <title>Themes</title>
-        <link>http://localhost:1313/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>信笔</title>
+        <link>http://localhost:1313/categories/%E4%BF%A1%E7%AC%94/</link>
+        <pubDate>Wed, 10 Sep 2025 19:44:11 -0400</pubDate>
         
-        <guid>http://localhost:1313/categories/themes/</guid>
+        <guid>http://localhost:1313/categories/%E4%BF%A1%E7%AC%94/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>手记</title>
+        <link>http://localhost:1313/categories/%E6%89%8B%E8%AE%B0/</link>
+        <pubDate>Sun, 24 Aug 2025 20:51:24 -0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E6%89%8B%E8%AE%B0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>走走</title>
+        <link>http://localhost:1313/categories/%E8%B5%B0%E8%B5%B0/</link>
+        <pubDate>Tue, 10 Jun 2025 21:25:39 -0500</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E8%B5%B0%E8%B5%B0/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
         <link>http://localhost:1313/categories/test/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/test/</guid>
         <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
-        <title>Test With Whitespaces</title>
-        <link>http://localhost:1313/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/categories/test-with-whitespaces/</guid>
-        <description></description>
         </item>
         
     </channel>
