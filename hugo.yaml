@@ -1,40 +1,40 @@
-baseurl: https://example.com/
+baseurl: https://foxat4.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
-title: Example Site
-copyright: Example Person
+title: 青群山丘
+copyright: O
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
-DefaultContentLanguage: en
+DefaultContentLanguage: zh-cn
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage: false
+hasCJKLanguage: true
 
 languages:
+
     en:
         languageName: English
-        title: Example Site
-        weight: 1
-        params:
-            sidebar:
-                subtitle: Example description
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
+        title: Aqua Yama
         weight: 2
         params:
             sidebar:
-                subtitle: 演示说明
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
+                subtitle: haven't come up with a good one!
+    zh-cn:
+        languageName: 中文
+        title: 青群山丘
+        weight: 1
+        params:
+            sidebar:
+                subtitle: 读读写写
+    ja:
+        languageName: 日本語
+        title: 蒼海の丘
         weight: 3
         params:
             sidebar:
-                subtitle: وصف تجريبي
+                subtitle: また考えていない...
 
 services:
     # Change it to your Disqus shortname before using
@@ -59,7 +59,7 @@ params:
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2025
         customText:
 
     dateFormat:
@@ -67,8 +67,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 🌊
+        subtitle: 读读写写
         avatar:
             enabled: true
             local: true
@@ -84,7 +84,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: utterances
 
         disqusjs:
             shortname:
@@ -94,9 +94,9 @@ params:
             adminLabel:
 
         utterances:
-            repo:
-            issueTerm: pathname
-            label:
+            repo: hyrtee/hyrteeblogtalks
+            issueTerm: title
+            label: github-light
 
         beaudar:
             repo:
