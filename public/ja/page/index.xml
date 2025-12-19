@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 蒼海の丘</title>
-        <link>http://localhost:1313/ja/page/</link>
+        <link>https://foxat4.github.io/ja/page/</link>
         <description>Recent content in Pages on 蒼海の丘</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <copyright>O</copyright><atom:link href="http://localhost:1313/ja/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>O</copyright><atom:link href="https://foxat4.github.io/ja/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>ブログについて</title>
-        <link>http://localhost:1313/ja/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+        <link>https://foxat4.github.io/ja/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/ja/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+        <guid>https://foxat4.github.io/ja/%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
         <description>&lt;p&gt;こんにちは！スタイルやジャンルを試している「オウ」である。ブログの名、「蒼海の丘」ていうものが、中国語の「青群山丘」から意訳されたのだ。海の如く、うねっている山、の感じ？&lt;/p&gt;
 &lt;p&gt;サイトの定番は一年間の回顧で、エッセイなどもある。今、中国語だけを使っているが、いつか英語や日本語も使いたい。ぜひお楽しみにしてください。&lt;/p&gt;
 </description>
