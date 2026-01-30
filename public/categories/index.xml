@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on 青群山丘</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://foxat4.github.io/categories/</link>
         <description>Recent content in Categories on 青群山丘</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>O</copyright>
-        <lastBuildDate>Thu, 29 Jan 2026 22:24:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Jan 2026 22:24:25 -0500</lastBuildDate><atom:link href="https://foxat4.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>月度</title>
-        <link>http://localhost:1313/categories/%E6%9C%88%E5%BA%A6/</link>
+        <link>https://foxat4.github.io/categories/%E6%9C%88%E5%BA%A6/</link>
         <pubDate>Thu, 29 Jan 2026 22:24:25 -0500</pubDate>
         
-        <guid>http://localhost:1313/categories/%E6%9C%88%E5%BA%A6/</guid>
+        <guid>https://foxat4.github.io/categories/%E6%9C%88%E5%BA%A6/</guid>
         <description></description>
         </item>
         <item>
         <title>年终回顾</title>
-        <link>http://localhost:1313/categories/%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE/</link>
+        <link>https://foxat4.github.io/categories/%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE/</link>
         <pubDate>Thu, 18 Dec 2025 10:34:50 -0500</pubDate>
         
-        <guid>http://localhost:1313/categories/%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE/</guid>
+        <guid>https://foxat4.github.io/categories/%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE/</guid>
         <description></description>
         </item>
         <item>
         <title>信笔</title>
-        <link>http://localhost:1313/categories/%E4%BF%A1%E7%AC%94/</link>
+        <link>https://foxat4.github.io/categories/%E4%BF%A1%E7%AC%94/</link>
         <pubDate>Wed, 10 Sep 2025 19:44:11 -0400</pubDate>
         
-        <guid>http://localhost:1313/categories/%E4%BF%A1%E7%AC%94/</guid>
+        <guid>https://foxat4.github.io/categories/%E4%BF%A1%E7%AC%94/</guid>
         <description></description>
         </item>
         <item>
         <title>走走</title>
-        <link>http://localhost:1313/categories/%E8%B5%B0%E8%B5%B0/</link>
+        <link>https://foxat4.github.io/categories/%E8%B5%B0%E8%B5%B0/</link>
         <pubDate>Sun, 24 Aug 2025 20:51:24 -0500</pubDate>
         
-        <guid>http://localhost:1313/categories/%E8%B5%B0%E8%B5%B0/</guid>
+        <guid>https://foxat4.github.io/categories/%E8%B5%B0%E8%B5%B0/</guid>
         <description></description>
         </item>
         <item>
         <title>手记</title>
-        <link>http://localhost:1313/categories/%E6%89%8B%E8%AE%B0/</link>
+        <link>https://foxat4.github.io/categories/%E6%89%8B%E8%AE%B0/</link>
         <pubDate>Sat, 26 Apr 2025 21:45:03 -0400</pubDate>
         
-        <guid>http://localhost:1313/categories/%E6%89%8B%E8%AE%B0/</guid>
+        <guid>https://foxat4.github.io/categories/%E6%89%8B%E8%AE%B0/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>http://localhost:1313/categories/test/</link>
+        <link>https://foxat4.github.io/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/test/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://foxat4.github.io/categories/test/</guid>
+        <description>&lt;img src="https://foxat4.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>
