@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 青群山丘</title>
-        <link>https://foxat4.github.io/page/</link>
+        <link>http://localhost:1313/page/</link>
         <description>Recent content in Pages on 青群山丘</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>O</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://foxat4.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>https://foxat4.github.io/archives/</link>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://foxat4.github.io/archives/</guid>
+        <guid>http://localhost:1313/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://foxat4.github.io/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://foxat4.github.io/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://foxat4.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://foxat4.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;h3 id=&#34;挥挥手&#34;&gt;挥挥手！
 &lt;/h3&gt;&lt;p&gt;你好！欢迎来玩。我是O。头像是今年年初在雪后的河边散步时拍的。当时见到这样晶莹莹的静寂雪尘，心里浮现出“雪泥鸿爪”这四个字。作为一个博客的意象来说好像意外地很合适。&lt;/p&gt;
 &lt;p&gt;在这里，会不定期更新写作上的小小实验，定番是年终回顾。写作语言会以中文为主，但也许什么时候会有英语和正在学习中的日语出没。2021–2025年经常使用微信公众号，大部分内容已经以文字或图像形式搬迁到这里。&lt;/p&gt;
