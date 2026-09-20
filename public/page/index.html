@@ -1,458 +1,200 @@
 <!DOCTYPE html>
-<html lang="zh-cn" dir="ltr">
-    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="读读写写">
-<title>Pages</title>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pages · 青群山丘</title>
+<meta name="description" content="">
+<meta name="author" content="O">
 
-<link rel='canonical' href='http://localhost:1313/page/'>
 
-<link rel="stylesheet" href="/scss/style.min.6ed114aaad8cf849f0ceedbf6313fc170612437c82ee2a62fae89fe1f22cecee.css"><meta property='og:title' content="Pages">
-<meta property='og:description' content="读读写写">
-<meta property='og:url' content='http://localhost:1313/page/'>
-<meta property='og:site_name' content='青群山丘'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-01-29T22:24:25-05:00 '/>
+<meta property="og:title" content="Pages">
+<meta property="og:description" content="">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://localhost:1313/page/">
+
+
+
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Pages">
-<meta name="twitter:description" content="读读写写"><link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/page/index.xml">
-    </head>
-    <body class="">
-    <script>
-        (function() {
-            const colorSchemeKey = 'StackColorScheme';
-            if(!localStorage.getItem(colorSchemeKey)){
-                localStorage.setItem(colorSchemeKey, "auto");
-            }
-        })();
-    </script><script>
-    (function() {
-        const colorSchemeKey = 'StackColorScheme';
-        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
-        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+<meta name="twitter:description" content="">
 
-        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
-            
+<link rel="canonical" href="http://localhost:1313/page/">
+<link rel="alternate" type="application/rss+xml" title="青群山丘" href="http://localhost:1313/index.xml">
 
-            document.documentElement.dataset.scheme = 'dark';
-        } else {
-            document.documentElement.dataset.scheme = 'light';
-        }
-    })();
-</script>
-<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
-    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
-        <span class="hamburger-box">
-            <span class="hamburger-inner"></span>
-        </span>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Noto+Serif+SC:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+
+<link rel="stylesheet" href="/css/style.css?v=1789873164">
+
+
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✦</text></svg>">
+
+</head>
+<body>
+  <header class="site-header">
+  <div class="header-inner">
+    <a class="site-logo" href="http://localhost:1313/">青群山丘.</a>
+
+    <nav class="header-nav">
+      
+      
+      
+      
+      
+      <a href="/" class="header-nav-link">
+        <span>主页</span>
+      </a>
+      
+      
+      
+      
+      <a href="/about/" class="header-nav-link">
+        <span>关于</span>
+      </a>
+      
+      
+      
+      
+      <a href="/friends/" class="header-nav-link">
+        <span>友链</span>
+      </a>
+      
+      
+      
+      
+      <a href="/archives/" class="header-nav-link">
+        <span>存档</span>
+      </a>
+      
+    </nav>
+
+    <div class="header-actions">
+      <button class="search-toggle icon-link" aria-label="搜索" onclick="openSearch()">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg>
+      </button>
+      <button class="menu-toggle" aria-label="打开菜单" aria-expanded="false" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+
+<div class="menu-overlay" id="menu-overlay">
+  <div class="menu-panel">
+    <button class="menu-close" aria-label="关闭菜单" onclick="toggleMenu()">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
     </button>
-
-    <header>
-        
-            
-            <figure class="site-avatar">
-                <a href="/">
-                
-                    
-                    
-                    
-                        
-                        <img src="/img/avatar_hu_c38f11a14eff22db.png" width="300"
-                            height="400" class="site-logo" loading="lazy" alt="Avatar">
-                    
-                
-                </a>
-                
-                    <span class="emoji">🌊</span>
-                
-            </figure>
-            
-        
-        
-        <div class="site-meta">
-            <h1 class="site-name"><a href="/">青群山丘</a></h1>
-            <h2 class="site-description">读读写写</h2>
-        </div>
-    </header><ol class="menu" id="main-menu">
+    <nav class="menu-nav">
+      
+      <a href="/" class="menu-link" onclick="toggleMenu()">
+        <span class="menu-link-num">-100</span>
+        <span class="menu-link-text">主页</span>
+      </a>
+      
+      <a href="/about/" class="menu-link" onclick="toggleMenu()">
+        <span class="menu-link-num">-90</span>
+        <span class="menu-link-text">关于</span>
+      </a>
+      
+      <a href="/friends/" class="menu-link" onclick="toggleMenu()">
+        <span class="menu-link-num">-90</span>
+        <span class="menu-link-text">友链</span>
+      </a>
+      
+      <a href="/archives/" class="menu-link" onclick="toggleMenu()">
+        <span class="menu-link-num">-50</span>
+        <span class="menu-link-text">存档</span>
+      </a>
+      
+    </nav>
+    <div class="menu-footer">
+      <div class="menu-social">
         
         
         
-        <li >
-            <a href='/' >
-                
-                
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <polyline points="5 12 3 12 12 3 21 12 19 12" />
-  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
-  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
-</svg>
-
-
-
-                
-                <span>主页</span>
-            </a>
-        </li>
-        
-        
-        <li >
-            <a href='/%E5%85%B3%E4%BA%8E/' >
-                
-                
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="12" cy="7" r="4" />
-  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
-</svg>
-
-
-
-                
-                <span>关于</span>
-            </a>
-        </li>
-        
-        
-        <li >
-            <a href='/friends/' >
-                
-                
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
-</svg>
-
-
-
-                
-                <span>友链</span>
-            </a>
-        </li>
-        
-        
-        <li >
-            <a href='/archives/' >
-                
-                
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <rect x="3" y="4" width="18" height="4" rx="2" />
-  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
-  <line x1="10" y1="12" x2="14" y2="12" />
-</svg>
-
-
-
-                
-                <span>存档</span>
-            </a>
-        </li>
-        
-        
-        <li >
-            <a href='/search/' >
-                
-                
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="10" cy="10" r="7" />
-  <line x1="21" y1="21" x2="15" y2="15" />
-</svg>
-
-
-
-                
-                <span>Search</span>
-            </a>
-        </li>
-        
-        <li class="menu-bottom-section">
-            <ol class="menu">
-
-                
-                    <li id="dark-mode-toggle">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="8" cy="12" r="2" />
-  <rect x="2" y="6" width="20" height="12" rx="6" />
-</svg>
-
-
-
-                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="16" cy="12" r="2" />
-  <rect x="2" y="6" width="20" height="12" rx="6" />
-</svg>
-
-
-
-                        <span>暗色模式</span>
-                    </li>
-                
-            </ol>
-        </li>
-    </ol>
-</aside>
-
-    <aside class="sidebar right-sidebar sticky">
-        
-            
-                <form action="/search/" class="search-form widget" >
-        <p>
-            <label>搜索</label>
-            <input name="keyword" required placeholder="输入关键词..." />
-        
-            <button title="搜索">
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="10" cy="10" r="7" />
-  <line x1="21" y1="21" x2="15" y2="15" />
-</svg>
-
-
-
-            </button>
-        </p>
-    </form>
-            
-        
-            
-                <section class="widget archives">
-        <div class="widget-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
-</svg>
-
-
-
-        </div>
-        <h2 class="widget-title section-title">归档</h2>
-
-        
-        
-        
-        
-        
-        <div class="widget-archive--list">
-            <div class="archives-year">
-                    <a href="/archives/#2026">
-                        
-                            <span class="year">2026</span>
-                            <span class="count">1</span>
-                        
-                    </a> 
-                </div>
-            <div class="archives-year">
-                    <a href="/archives/#2025">
-                        
-                            <span class="year">2025</span>
-                            <span class="count">6</span>
-                        
-                    </a> 
-                </div>
-            <div class="archives-year">
-                    <a href="/archives/#2024">
-                        
-                            <span class="year">2024</span>
-                            <span class="count">2</span>
-                        
-                    </a> 
-                </div>
-            <div class="archives-year">
-                    <a href="/archives/#2023">
-                        
-                            <span class="year">2023</span>
-                            <span class="count">1</span>
-                        
-                    </a> 
-                </div>
-            <div class="archives-year">
-                    <a href="/archives/#2022">
-                        
-                            <span class="year">2022</span>
-                            <span class="count">1</span>
-                        
-                    </a> 
-                </div>
-            <div class="archives-year">
-                    <a href="/archives/#2021">
-                        
-                            <span class="year">更多</span>
-                        
-                    </a> 
-                </div>
-            
-        </div>
-    </section>
-            
-        
-            
-                <section class="widget tagCloud">
-    <div class="widget-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <line x1="5" y1="9" x2="19" y2="9" />
-  <line x1="5" y1="15" x2="19" y2="15" />
-  <line x1="11" y1="4" x2="7" y2="20" />
-  <line x1="17" y1="4" x2="13" y2="20" />
-</svg>
-
-
-
+      </div>
+      <p class="menu-copyright">&copy; 2026 O</p>
     </div>
-    <h2 class="widget-title section-title">分类</h2>
+  </div>
+</div>
 
-    <div class="tagCloud-tags">
-        
-            <a href="/categories/%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE/" class="font_size_5">
-                年终回顾
-            </a>
-        
-            <a href="/categories/%E6%89%8B%E8%AE%B0/" class="font_size_4">
-                手记
-            </a>
-        
-            <a href="/categories/%E8%B5%B0%E8%B5%B0/" class="font_size_2">
-                走走
-            </a>
-        
-            <a href="/categories/%E4%BF%A1%E7%AC%94/" class="font_size_1">
-                信笔
-            </a>
-        
-            <a href="/categories/%E6%9C%88%E5%BA%A6/" class="font_size_1">
-                月度
-            </a>
-        
-    </div>
+
+<div class="search-overlay" id="search-overlay">
+  <div class="search-inner">
+    <button class="search-close" aria-label="关闭搜索" onclick="closeSearch()">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+    </button>
+    <input type="text" class="search-input" placeholder="搜索文章..." id="search-input" autocomplete="off">
+    <div class="search-results" id="search-results"></div>
+  </div>
+</div>
+
+<script>
+  function toggleMenu() {
+    const overlay = document.getElementById('menu-overlay');
+    const toggle = document.querySelector('.menu-toggle');
+    const isOpen = overlay.classList.toggle('open');
+    document.body.style.overflow = isOpen ? 'hidden' : '';
+    if (toggle) toggle.setAttribute('aria-expanded', isOpen);
+  }
+  function openSearch() {
+    document.getElementById('search-overlay').classList.add('open');
+    document.body.style.overflow = 'hidden';
+    setTimeout(function() { document.getElementById('search-input').focus(); }, 100);
+  }
+  function closeSearch() {
+    document.getElementById('search-overlay').classList.remove('open');
+    document.body.style.overflow = '';
+  }
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      if (document.getElementById('menu-overlay').classList.contains('open')) toggleMenu();
+      if (document.getElementById('search-overlay').classList.contains('open')) closeSearch();
+    }
+  });
+</script>
+
+  <main class="site-main">
+    
+<section class="page-header">
+  <div class="container">
+    <p class="page-eyebrow">PAGE</p>
+    <h1 class="page-title">Pages</h1>
+    
+    <div class="page-divider"></div>
+  </div>
 </section>
 
-            
-        
-            
-                <section class="widget tagCloud">
-    <div class="widget-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
-  <circle cx="9" cy="9" r="2" />
-</svg>
-
-
-
+<section class="post-list-section">
+  <div class="container">
+    
+    <div class="post-list">
+      
     </div>
-    <h2 class="widget-title section-title">标签云</h2>
+    
 
-    <div class="tagCloud-tags">
-        
-            <a href="/tags/%E6%97%A5%E5%B8%B8/">
-                日常
-            </a>
-        
-            <a href="/tags/%E8%B7%AF%E4%B8%8A/">
-                路上
-            </a>
-        
-    </div>
+  </div>
 </section>
 
-            
-        
-    </aside>
+  </main>
+  <footer class="site-footer">
 
-
-            <main class="main full-width">
-    <header>
-        <h3 class="section-title">
-            
-                章节
-            
-        </h3>
-
-        <div class="section-card">
-            <div class="section-details">
-                <h3 class="section-count">3 个页面</h3>
-                <h1 class="section-term">Pages</h1>
-                
-            </div>
-        </div>
-    </header>
-    
-    <section class="article-list--compact">
-        
-            <article>
-    <a href="/archives/">
-        <div class="article-details">
-            <h2 class="article-title">存档</h2>
-            <footer class="article-time">
-                <time datetime='2019-05-28T00:00:00Z'>May 28, 2019</time>
-            </footer>
-        </div>
-    </a>
-</article>
-        
-            <article>
-    <a href="/search/">
-        <div class="article-details">
-            <h2 class="article-title">Search</h2>
-            <footer class="article-time">
-                <time datetime='0001-01-01T00:00:00Z'>Jan 01, 0001</time>
-            </footer>
-        </div>
-    </a>
-</article>
-        
-            <article>
-    <a href="/%E5%85%B3%E4%BA%8E/">
-        <div class="article-details">
-            <h2 class="article-title">关于</h2>
-            <footer class="article-time">
-                <time datetime='0001-01-01T00:00:00Z'>Jan 01, 0001</time>
-            </footer>
-        </div>
-    </a>
-</article>
-        
-    </section>
-<footer class="site-footer">
-    <section class="copyright">
-        &copy; 
-        
-            2021 - 
-        
-        2026 O
-    </section>
-    
-    <section class="powerby">
-        使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
-        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.32.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
-    </section>
+  <div class="footer-bottom">
+    <p>&copy; 2026 O. All rights reserved.</p>
+    <p class="footer-credit">Crafted with <span style="color:#c9a96e">✦</span> · Blank Magazine Theme</p>
+  </div>
 </footer>
 
-
-            </main>
-        </div>
-        <script 
-                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
-                
-                >
-            </script><script type="text/javascript" src="/ts/main.859bb9926a88b4825983aeffcab2ad9f131d0e1a99a098a128c2c233a0b6b653.js" defer></script>
-<script>
-    (function () {
-        const customFont = document.createElement('link');
-        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
-
-        customFont.type = "text/css";
-        customFont.rel = "stylesheet";
-
-        document.head.appendChild(customFont);
-    }());
-</script>
-
-    </body>
+  <script src="/js/main.js?v=1789873164"></script>
+</body>
 </html>
