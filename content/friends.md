@@ -7,11 +7,10 @@ menu:
   main:
       name: 友链
       url: /friends/
-      weight: -90
-      params: 
-            icon: infinity
+      weight: -70
 ---
+！
 
-（code尚在摸索中……）
+代码尚在摸索中……
 
 独居日记：https://shioriblog.org/
