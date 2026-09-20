@@ -14,13 +14,6 @@ hasCJKLanguage: true
 
 languages:
 
-    en:
-        languageName: English
-        title: Aqua Yama
-        weight: 2
-        params:
-            sidebar:
-                subtitle: haven't come up with a good one!
     zh-cn:
         languageName: 中文
         title: 青群山丘
@@ -28,13 +21,6 @@ languages:
         params:
             sidebar:
                 subtitle: 读读写写
-    ja:
-        languageName: 日本語
-        title: 蒼海の丘
-        weight: 3
-        params:
-            sidebar:
-                subtitle: また考えていない...
 
 services:
     # Change it to your Disqus shortname before using
@@ -213,19 +199,6 @@ params:
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
     main: []
-
-    social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-              icon: brand-github
-
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
 
 related:
     includeNewer: true
