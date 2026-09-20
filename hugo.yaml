@@ -16,6 +16,9 @@ pagination:
   pagerSize: 9
 
 params:
+  author: O
+  authorBio: 写写画画。不定期更新写作上的小小实验，定番是年终回顾
+  slogan: 
   email: 
   mainSections:
     - posts
