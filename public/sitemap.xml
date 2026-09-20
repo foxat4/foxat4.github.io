@@ -2,78 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://foxat4.github.io/about/</loc>
     <lastmod>2026-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://foxat4.github.io/</loc>
     <lastmod>2026-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2026jan/my-new-article/</loc>
+    <loc>https://foxat4.github.io/posts/2026jan/my-new-article/</loc>
     <lastmod>2026-01-29T22:24:25-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://foxat4.github.io/categories/</loc>
     <lastmod>2026-01-29T22:24:25-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://foxat4.github.io/posts/</loc>
     <lastmod>2026-01-29T22:24:25-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://foxat4.github.io/tags/</loc>
     <lastmod>2026-01-29T22:24:25-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://foxat4.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2026-01-29T22:24:25-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E6%9C%88%E5%BA%A6/</loc>
+    <loc>https://foxat4.github.io/categories/%E6%9C%88%E5%BA%A6/</loc>
     <lastmod>2026-01-29T22:24:25-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-%E5%9B%9E%E9%A1%BE/</loc>
+    <loc>https://foxat4.github.io/posts/2025-%E5%9B%9E%E9%A1%BE/</loc>
     <lastmod>2025-12-18T10:34:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE/</loc>
+    <loc>https://foxat4.github.io/categories/%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE/</loc>
     <lastmod>2025-12-18T10:34:50-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/duskbird/</loc>
+    <loc>https://foxat4.github.io/posts/duskbird/</loc>
     <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E4%BF%A1%E7%AC%94/</loc>
+    <loc>https://foxat4.github.io/categories/%E4%BF%A1%E7%AC%94/</loc>
     <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/summer2025/</loc>
+    <loc>https://foxat4.github.io/posts/summer2025/</loc>
     <lastmod>2025-08-24T20:51:24-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E8%B5%B0%E8%B5%B0/</loc>
+    <loc>https://foxat4.github.io/categories/%E8%B5%B0%E8%B5%B0/</loc>
     <lastmod>2025-08-24T20:51:24-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/japan2025/</loc>
+    <loc>https://foxat4.github.io/posts/japan2025/</loc>
     <lastmod>2025-06-10T21:25:39-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E8%B7%AF%E4%B8%8A/</loc>
+    <loc>https://foxat4.github.io/tags/%E8%B7%AF%E4%B8%8A/</loc>
     <lastmod>2025-06-10T21:25:39-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/%E7%9C%8B%E8%8A%B1%E4%B8%8D%E6%98%AF%E8%8A%B1/</loc>
+    <loc>https://foxat4.github.io/posts/%E7%9C%8B%E8%8A%B1%E4%B8%8D%E6%98%AF%E8%8A%B1/</loc>
     <lastmod>2025-04-26T21:45:03-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E6%89%8B%E8%AE%B0/</loc>
+    <loc>https://foxat4.github.io/categories/%E6%89%8B%E8%AE%B0/</loc>
     <lastmod>2025-04-26T21:45:03-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/%E5%B8%AD%E5%9C%B0%E8%80%8C%E5%9D%90/</loc>
+    <loc>https://foxat4.github.io/posts/%E5%B8%AD%E5%9C%B0%E8%80%8C%E5%9D%90/</loc>
     <lastmod>2025-03-21T18:07:47-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024%E5%9B%9E%E9%A1%BE/</loc>
+    <loc>https://foxat4.github.io/posts/2024%E5%9B%9E%E9%A1%BE/</loc>
     <lastmod>2024-11-30T20:51:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023%E5%9B%9E%E9%A1%BE/</loc>
+    <loc>https://foxat4.github.io/posts/2023%E5%9B%9E%E9%A1%BE/</loc>
     <lastmod>2023-12-18T20:50:59-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2022%E5%9B%9E%E9%A1%BE/</loc>
+    <loc>https://foxat4.github.io/posts/2022%E5%9B%9E%E9%A1%BE/</loc>
     <lastmod>2022-12-27T20:50:55-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2021-%E5%9B%9E%E9%A1%BE/</loc>
+    <loc>https://foxat4.github.io/posts/2021-%E5%9B%9E%E9%A1%BE/</loc>
     <lastmod>2021-12-18T20:35:44-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/thunder/</loc>
+    <loc>https://foxat4.github.io/posts/thunder/</loc>
     <lastmod>2021-05-04T20:02:15-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/friends/</loc>
+    <loc>https://foxat4.github.io/friends/</loc>
   </url>
 </urlset>

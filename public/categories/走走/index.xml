@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>走走 on 青群山丘</title>
-    <link>http://localhost:1313/categories/%E8%B5%B0%E8%B5%B0/</link>
+    <link>https://foxat4.github.io/categories/%E8%B5%B0%E8%B5%B0/</link>
     <description>Recent content in 走走 on 青群山丘</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>O</copyright>
     <lastBuildDate>Sun, 24 Aug 2025 20:51:24 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E8%B5%B0%E8%B5%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://foxat4.github.io/categories/%E8%B5%B0%E8%B5%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>夏日剪贴簿</title>
-      <link>http://localhost:1313/posts/summer2025/</link>
+      <link>https://foxat4.github.io/posts/summer2025/</link>
       <pubDate>Sun, 24 Aug 2025 20:51:24 -0500</pubDate>
-      <guid>http://localhost:1313/posts/summer2025/</guid>
+      <guid>https://foxat4.github.io/posts/summer2025/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这个夏天快要过完了。&lt;/p&gt;&#xA;&lt;p&gt;体感上感觉好像没特别做什么，但在即将结束的当口回头一望，意识到也许这是对人生有重大意义的夏天。向外确实接收了很多新信息新知识，不过更显著的变化似乎是在自我内部，而最重要的那个可供追溯的片刻发生在7月15日（见下），埋在日复一日的意识流中。&lt;/p&gt;</description>
     </item>
     <item>
       <title>喫茶去</title>
-      <link>http://localhost:1313/posts/japan2025/</link>
+      <link>https://foxat4.github.io/posts/japan2025/</link>
       <pubDate>Tue, 10 Jun 2025 21:25:39 -0500</pubDate>
-      <guid>http://localhost:1313/posts/japan2025/</guid>
+      <guid>https://foxat4.github.io/posts/japan2025/</guid>
       <description>&lt;p&gt;到达东京的第二天，也许是上午走在代代木公园又或者是某条并不重要的街道时，突然想到可以为行程写一篇长日记。再转念一想，既然如此，为什么不直接写推送呢。于是一个也许可以作为系列的旅行流水账就这样潦草地成形。目前打算按大城市作粗略划分，每晚视当天精力写（或者不写）当日的经历：去了哪里，吃了、做了什么，至少比在手机上咔擦影相多一点文字和智力上的噼里啪啦处理。&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>信笔 on 青群山丘</title>
-    <link>http://localhost:1313/categories/%E4%BF%A1%E7%AC%94/</link>
+    <link>https://foxat4.github.io/categories/%E4%BF%A1%E7%AC%94/</link>
     <description>Recent content in 信笔 on 青群山丘</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>O</copyright>
     <lastBuildDate>Wed, 10 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E4%BF%A1%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://foxat4.github.io/categories/%E4%BF%A1%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>夕追鸟</title>
-      <link>http://localhost:1313/posts/duskbird/</link>
+      <link>https://foxat4.github.io/posts/duskbird/</link>
       <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/duskbird/</guid>
+      <guid>https://foxat4.github.io/posts/duskbird/</guid>
       <description>&lt;p&gt;那晚，她振翅飞出窗外，化身为一只夕追鸟。&lt;/p&gt;&#xA;&lt;p&gt;之前她只在《禽类纪要》中读过夕追鸟的条目：麻雀那么大，羽毛是暮云特有的银灰色，一生朝西方飞去，永远在追逐夕阳的路上。没有人见过停在树上的夕追鸟，所以对于佢如何繁殖之类的实用问题，任何有记载的书都缄口不言。很多年来，她都疑心这鸟在世界上并不存在，和渡渡一样，仅仅是传说而已。&lt;/p&gt;</description>
     </item>
   </channel>
